@@ -1,0 +1,68 @@
+body {
+    font-family: Segoe UI;
+  }
+  
+  footer{
+    background-color: black;
+    color: white;
+    
+    
+  }
+  
+  .footer-container{
+    width: auto;
+  }
+  
+  .flex-container {
+    display: flex;
+    /* grid-template-columns: auto auto auto; */
+  }
+  
+  
+  li {
+    display: inline-block;
+  }
+  
+  ul{
+    padding-left: 0px;
+  }
+  
+  .grid-item {
+    border: 1px solid black;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  
+  .Images{
+    grid-auto-flow: column;
+  }
+  
+  .social-img{
+  width:50px;
+  height: 40px;
+  
+  }
+  
+  .text-bar{
+    margin-left: 500px;
+  }
+  
+  .Opening{
+    padding-left: 300px;
+  }
+  
+  .Visist{
+    padding-left: 300px;
+  }
+  
+  .About{
+    width: 0px;
+   
+  }
+  
+  .Licensing{
+    padding-left: 360px;
+  }
+  
+  
+  
